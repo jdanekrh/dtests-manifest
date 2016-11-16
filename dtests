@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <imports>
+    <localimport file="minimal"/> 
+  </imports>
+  <projects>
+    <project name="dtests"
+             remote="git@bitbucket.org:msgqe/dtests.git"
+             path="dtests"/>
+    <project name="rundefs"
+             remote="git@bitbucket.org:msgqe/dtests-rundefs.git"
+             path="dtests/dtests/rundefs-new"/>
+  </projects>
+</manifest>
+
